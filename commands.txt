@@ -1,0 +1,6 @@
+
+
+npm config set cafile C:\Users\shlomigi\TehilaROOTCA.crt
+
+npm create vite@latest
+section 2
